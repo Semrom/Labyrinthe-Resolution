@@ -163,11 +163,12 @@ public class Labyrinthe extends JPanel{
 						if (!done)
 							done = resolutionLab(pos_x, pos_y - 1);
 					}
-					if (done) {
-			            grille[pos_x][pos_y] = 7;
+					if (done) 
+			            		grille[pos_x][pos_y] = 7;
 			     
-					}
+					
 				}
+				
 			return done;
 
 		} //Fin resolutionLab()
