@@ -75,7 +75,6 @@ public class Labyrinthe extends JPanel{
 				
 				//Création du labyrinthe de taille 3, les "1" seront des murs et les "0" des espaces vides
 				grille = new int[][]{
-				
 					    { 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1 },
 					    { 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1 },
 					    { 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1 },
@@ -96,7 +95,6 @@ public class Labyrinthe extends JPanel{
 				
 				//Création du labyrinthe sans issue de taille autre, les "1" seront des murs et les "0" des espaces vides
 				grille = new int[][]{
-						
 					    { 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 					    { 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1 },
 					    { 1, 0, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1 },
@@ -146,6 +144,7 @@ public class Labyrinthe extends JPanel{
 			 
 				boolean done = false;
 			
+				//Si la fonction estValide() renvoie true
 				if (estValide(pos_x, pos_y)) {
 					
 					grille[pos_x][pos_y] = 3;
@@ -177,7 +176,7 @@ public class Labyrinthe extends JPanel{
 			
 			boolean result = false;
 			 
-			  //Si la case passée en paramètre est dans les dimensions du labyrinthe
+		      //Si la case passée en paramètre est dans les dimensions du labyrinthe
 		      if (pos_x >= 0 && pos_x < grille.length && pos_y >= 0 && pos_y < grille[0].length)
 		    	 //Et si la case est un espace vide
 		         if (grille[pos_x][pos_y] == 0)
