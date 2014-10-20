@@ -166,7 +166,6 @@ public class Labyrinthe extends JPanel{
 					if (done) 
 			            		grille[pos_x][pos_y] = 7;
 			     
-					
 				}
 				
 			return done;
