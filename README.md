@@ -5,4 +5,10 @@ Cette section regroupe les codes sources en Java d'un projet informatique réali
 
 Le sujet : créer un algorithme de résolution de labyrinthe.
 
+Télécharger les exécutables :
+  - Pour Windows :      http://semromsoftware.com/Download/Projets/Resolve_Labyrinthe_Windows.zip
+  - Pour Mac & Linux :  http://semromsoftware.com/Download/Projets/Resolve_Labyrinthe_Mac_Linux.zip
+  
+Remarque : les images liées aux fichiers java ne sont pas présentes.
+
 Romain Semler ©2014
