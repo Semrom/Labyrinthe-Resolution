@@ -118,21 +118,21 @@ public class Labyrinthe extends JPanel{
 		
 			//Début de parcours de la matrice
 			for (int i = 0; i < grille.length; ++i)
-					for (int j = 0; j < grille[0].length; ++j) {
+				for (int j = 0; j < grille[0].length; ++j) {
 						
-						if (grille[i][j] == 0)  
-							//Image de fond blanc
-							button[i][j] = new JButton(caseVide);
+					if (grille[i][j] == 0)  
+						//Image de fond blanc
+						button[i][j] = new JButton(caseVide);
 					
-						else 
-							//Image de fond noir
-							button[i][j] = new JButton(caseMur);
+					else 
+						//Image de fond noir
+						button[i][j] = new JButton(caseMur);
 				
-						button[i][j].setPreferredSize(dim);
-						button[i][j].setBorder(null);
-						panel.add(button[i][j]);
+					button[i][j].setPreferredSize(dim);
+					button[i][j].setBorder(null);
+					panel.add(button[i][j]);
 
-					} //Fin de parcours de la matrice
+				} //Fin de parcours de la matrice
 		      
 			this.add(panel);
 			
