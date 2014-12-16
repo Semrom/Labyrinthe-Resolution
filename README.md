@@ -14,7 +14,5 @@ Télécharger les exécutables :
     http://semrom-projects.com/Download/Projets_Java/Labyrinthe/Resolve_Labyrinthe_Windows.zip
   - Pour Mac & Linux :  
     http://semrom-projects.com/Download/Projets_Java/Labyrinthe/Resolve_Labyrinthe_Mac_Linux.zip
-  
-Remarque : les images liées aux fichiers Java ne sont pas présentes.
 
 Romain Semler ©2014
