@@ -4,8 +4,8 @@ Résolution d'un labyrinthe en Java
 Cette section regroupe les codes sources en Java d'un projet informatique réalisé dans le cadre des modélisations mathématiques.
 
 Mon équipe :
-- Saillard Manon
-- Vigne Cédric
+- SAILLARD Manon
+- VIGNE Cédric
 
 Le sujet : créer un algorithme de résolution de labyrinthe.
 
