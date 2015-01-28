@@ -15,4 +15,6 @@ Télécharger les exécutables :
   - Pour Mac & Linux :  
     http://semrom-projects.com/Download/Projets_Java/Labyrinthe/Resolve_Labyrinthe_Mac_Linux.zip
 
+Mises à jour prochainement.
+
 Romain Semler ©2014
