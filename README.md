@@ -9,11 +9,8 @@ Mon équipe (pour la version 1.0):
 - SAILLARD Manon
 - VIGNE Cédric
 
-Télécharger les exécutables :
-  - Pour Windows :      
-    Lien en cours de mise à jour
-  - Pour Mac & Linux :  
-    Lien en cours de mise à jour
+Rapport du projet (PDF) :
+http://semrom.fr/download/projets/Java/Labyrinthe/resolution-labyrinthe.pdf
 
 Dernière version : 2.0
 
