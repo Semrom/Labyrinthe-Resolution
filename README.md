@@ -11,8 +11,7 @@ Mes coéquipiers (pour la version 1.0):
 
 Plus d'informations : http://semrom.fr/projets/resolution-labyrinthe.php
 
-Rapport du projet (PDF) :
-http://semrom.fr/download/projets/Java/Labyrinthe/resolution-labyrinthe.pdf
+Rapport du projet (PDF) : http://urlz.fr/2XRi
 
 Dernière version : 2.0
 
