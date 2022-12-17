@@ -9,7 +9,7 @@ Mes coéquipiers (pour la version 1.0):
 - SAILLARD Manon
 - VIGNE Cédric
 
-Plus d'informations : https://romain-semler.fr/projets/resolution-labyrinthe.php
+Plus d'informations : https://romain-semler.fr/projets-universitaires/resolution-labyrinthe.php
 
 Rapport du projet (PDF) : https://urlz.fr/e5jM
 
